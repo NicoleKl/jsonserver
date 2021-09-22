@@ -1,0 +1,34 @@
+{
+    "products" : [
+        {
+          "name" : "Дощовик прозорий Warning",
+          "price": "800",
+          "image": "dist/images/trend-pr-1.jpg"
+        },
+        {
+            "name" : "Дощовик прозорий Warning",
+            "price": "800",
+            "image": "dist/images/trend-pr-2.jpg"
+        },
+        {
+            "name" : "Дощовик прозорий Warning",
+            "price": "800",
+            "image": "dist/images/trend-pr-3.jpg"
+        },
+        {
+            "name" : "Дощовик прозорий Warning",
+            "price": "800",
+            "image": "dist/images/trend-pr-4.jpg"
+        },
+        {
+            "name" : "Дощовик прозорий Warning",
+            "price": "800",
+            "image": "dist/images/trend-pr-5.jpg"
+        },
+        {
+            "name" : "Дощовик прозорий Warning",
+            "price": "800",
+            "image": "dist/images/trend-pr-6.jpg"
+        }
+    ]
+}
