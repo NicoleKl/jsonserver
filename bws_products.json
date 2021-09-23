@@ -1,0 +1,13 @@
+{
+    "products": [
+      { "name": "Balsam", "price": "299", "image": "dist/images/balsam-2.jpg", "sale": true},
+      { "name": "Ashford", "price": "315", "image": "dist/images/ashford.jpg", "sale": true },
+      { "name": "Manhattan Plank", "price": "425", "image": "dist/images/manhatten-plank.jpg", "sale": false },
+      { "name": "Trevista 80 Textured", "price": "453", "image": "dist/images/trevista-strada.jpg", "sale": false },
+      { "name": "Adelaide", "price": "542", "image": "dist/images/adelaide.jpg", "sale": false },
+      { "name": "Richmond 80", "price": "345", "image": "dist/images/richmond.jpg", "sale": true },
+      { "name": "Adresia", "price": "322", "image": "dist/images/ardesia-moderna.jpg", "sale": true },
+      { "name": "Strada Nova", "price": "390", "image": "dist/images/trevista-strada.jpg", "sale": true },
+      { "name": "Moderna", "price": "415", "image": "dist/images/ardesia-moderna.jpg", "sale": false }
+    ]
+}
