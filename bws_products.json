@@ -1,5 +1,0 @@
-{
-    "products": [
-      { "name": "Balsam", "price": "299", "image": "dist/images/balsam-2.jpg", "sale": true}
-    ]
-}
